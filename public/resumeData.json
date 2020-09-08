@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Rajat Gurung",
+    "occupation": "Full Stack PhP & Node Developer",
+    "description": "I crate app using LAMP and MEVN Stack",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Rajat, I'm a Full Stack Developer. Currently I'm unemployed and looking for a job 🤞",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "rjtgurung@gmail.com",
+    "phone": "+91-700-137-8126",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Sonada",
+      "city": "Darjeeling",
+      "state": "West bengal (India)",
+      "zip": "734209"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/rajat.gurung.182",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/rajat-gurung-a09507169/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/rajat.gurung.182/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/Rajatgurung",
         "className": "fa fa-github"
       }
     ]
@@ -43,50 +43,45 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Indira Gandhi National Open University",
+        "degree": "Bacholar in coputer science",
+        "graduated": "January 2016",
+        "description": "Drop out because want to learn by my self"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Tellis webtech",
+        "title": "Team Member && Full stack node and php devloper",
+        "years": "Jan 2018 - May 2019",
+        "description": "Design and Make web app and website "
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Vue.Js ✌",
+        "level": "99%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "PHP & laravel",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS & Express",
+        "level": "60%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "Figma",
         "level": "55%"
       },
+
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "My Sql",
+        "level": "50%"
       }
     ]
   },
